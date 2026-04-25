@@ -32,21 +32,21 @@ Diplômé en économie et en économétrie, je me spécialise dans la transforma
 
 | Projet | Domaine | Technologies | Lien |
 |---|---|---|---|
-| 📱 **Churn Segmentation — MTN Bénin** | Télécommunications | R, Clustering, XGBoost | [Voir →](https://github.com/TON-USERNAME/churn-segmentation-mtn) |
-| 🏦 **Credit Risk Analytics — Secteur bancaire canadien** | Risque de crédit | R, Logistic Regression, Random Forest | [Voir →](https://github.com/TON-USERNAME/credit-risk-canadian-banking) |
-| 📈 **Performance opérationnelle & Prévisions de revenus** | Business Analytics | R, ARIMA, Holt-Winters | [Voir →](https://github.com/TON-USERNAME/operational-performance-forecasting) |
-| 🛡️ **Risque assurance & Cadre IFRS 17** | Actuariat | R, Chain-Ladder, GLM | [Voir →](https://github.com/TON-USERNAME/insurance-risk-ifrs17) |
+| 📱 **Churn Segmentation — MTN Bénin** | Télécommunications | R, Clustering, XGBoost | [Voir →](https://github.com/abayomi-adededji/churn-segmentation-mtn) |
+| 🏦 **Credit Risk Analytics — Secteur bancaire canadien** | Risque de crédit | R, Logistic Regression, Random Forest | [Voir →](https://github.com/abayomi-adededji/credit-risk-canadian-banking) |
+| 📈 **Performance opérationnelle & Prévisions de revenus** | Business Analytics | R, ARIMA, Holt-Winters | [Voir →](https://github.com/abayomi-adededji/operational-performance-forecasting) |
+| 🛡️ **Risque assurance & Cadre IFRS 17** | Actuariat | R, Chain-Ladder, GLM | [Voir →](https://github.com/abayomi-adededji/insurance-risk-ifrs17) |
 
 ---
 
 ## 📊 Domaines d'expertise
 
 ```
-📉 Modélisation statistique        ████████████████░░░░  80%
+📉 Modélisation statistique        ████████████████░░░░  90%
 🤖 Machine Learning                ██████████████░░░░░░  70%
 💳 Analyse du risque de crédit     ████████████████░░░░  80%
 📊 Business Intelligence (BI)      ███████████████░░░░░  75%
-⏱️ Prévision de séries temporelles ██████████████░░░░░░  70%
+⏱️ Prévision de séries temporelles ██████████████░░░░░░  80%
 🛡️ Modélisation actuarielle        ████████████░░░░░░░░  60%
 ```
 
@@ -54,13 +54,13 @@ Diplômé en économie et en économétrie, je me spécialise dans la transforma
 
 ## 📜 Certification
 
-🏅 **Data Analysis in Social Sciences** — MIT (Oct – Déc 2019)
+🏅 **Data Analysis in Social Sciences-Assessing your knowledge** — MIT (Oct – Déc 2019)
 
 ---
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abayomi.adededji.djamiou)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abayomi.adededji.djamiou@gmail.com)
 
 ---
