@@ -36,7 +36,7 @@ Diplômé en économie et en économétrie, je me spécialise dans la transforma
 | 🏦 **Credit Risk Analytics — Secteur bancaire canadien** | Risque de crédit | R, Logistic Regression, Random Forest | [Voir →](https://github.com/abayomi-adededji/credit-risk-canadian-banking) |
 | 📈 **Performance opérationnelle & Prévisions de revenus** | Business Analytics | R, ARIMA, Holt-Winters | [Voir →](https://github.com/abayomi-adededji/operational-performance-forecasting) |
 | 🛡️ **Risque assurance & Cadre IFRS 17** | Actuariat | R, Chain-Ladder, GLM | [Voir →](https://github.com/abayomi-adededji/insurance-risk-ifrs17) |
-|  ** Inégalité d'accès au soins hospitaliers** | Santé | R, Logit,DID | [Voir →](https://github.com/abayomi-adededji/Inegalite-acces-au-soins) |
+| 🏥 **Inégalité d'accès au soins hospitaliers** | Santé | R, Logit,DID | [Voir →](https://github.com/abayomi-adededji/Inegalite-acces-au-soins) |
 
 ---
 
